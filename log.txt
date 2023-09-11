@@ -1,0 +1,125 @@
+[2023-09-10 02:11:15] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 02:12:09] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 02:20:56] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+[2023-09-10 02:21:50] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+[2023-09-10 02:25:42] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+[2023-09-10 02:30:00] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+[2023-09-10 02:33:50] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 02:36:37] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 11:21:14] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+[2023-09-10 11:25:31] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 11:29:41] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 18:10:13] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 18:11:26] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 18:15:41] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 18:52:15] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-10 18:54:07] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+Conversion completed successfully.
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-11 10:09:53] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
+[2023-09-11 10:13:00] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+[2023-09-11 10:15:55] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+[2023-09-11 10:16:32] Script started.
+****************************************
+File downloaded and saved to data\ar-en.tmx
+****************************************
+Preprocessed data successfully.
+Data uploaded to translation_memory_exchange_database.translation_memory_exchange_table
