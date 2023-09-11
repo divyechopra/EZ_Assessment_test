@@ -128,7 +128,7 @@ The data in MySQL Workbench:
 
 ## 5. Contributors
 
-- [divye chopra](https://github.com/divyechopra)
+- [Divye chopra](https://github.com/divyechopra)
 
 ## 6. License
 
