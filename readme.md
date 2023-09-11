@@ -1,4 +1,4 @@
-# Project Name: Translation Memory Data Pipeline
+# Assessment Name: EZ Data Engineering test
 
 ## 1. Introduction
 
