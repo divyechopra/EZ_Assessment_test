@@ -37,7 +37,7 @@ Follow these steps to execute the project:
 1. Create a Conda environment with a Python version greater than 3.8.
    
    ```
-   conda create --name translation_memory python=3.8
+   conda create --name translation_memory python=3.9
    ```
 
 2. Activate the environment.
