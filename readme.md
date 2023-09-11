@@ -122,6 +122,9 @@ Follow these steps to execute the project:
 
 The data in MySQL Workbench: 
 
+![image](https://github.com/divyechopra/ET_Assessment_test/assets/122443219/f4101d8d-1c42-4496-9b2a-26a9f6c6d6b3)
+
+
 
 ## 5. Contributors
 
