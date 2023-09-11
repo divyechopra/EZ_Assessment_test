@@ -60,7 +60,7 @@ This module uploads a DataFrame to a MySQL database. It creates the database if 
    ```
 
 ### main.py
-<a name="mainpy"></a>
+<a name="mainpy"  href = "reader_module.py"></a>
 This is the main script that orchestrates the entire ETL process. It downloads a TMX file, converts it to a DataFrame, performs text preprocessing, and uploads the data to a MySQL database.
 
 
