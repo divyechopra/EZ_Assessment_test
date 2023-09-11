@@ -6,7 +6,8 @@ The Translation Memory Data Pipeline project is aimed at designing and implement
 
 ## File Details
 ### reader_module.py 
-<a name="reader_modulepy"></a>
+<a name="reader_module.py" href="https://github.com/divyechopra/ET_Assessment_test/blob/main/reader_module.py">reader_module.py</a>
+
 This module provides functions to download a file from a URL, save it to a specified folder(data), and decompress it if it's a gzip file.
 
    ```
@@ -60,7 +61,7 @@ This module uploads a DataFrame to a MySQL database. It creates the database if 
    ```
 
 ### main.py
-<a name="mainpy"  href = "reader_module.py"></a>
+<a name="main.py" ></a>
 This is the main script that orchestrates the entire ETL process. It downloads a TMX file, converts it to a DataFrame, performs text preprocessing, and uploads the data to a MySQL database.
 
 
