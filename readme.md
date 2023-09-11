@@ -5,8 +5,7 @@
 The Translation Memory Data Pipeline project is aimed at designing and implementing a simple data pipeline to extract, transform, and load (ETL) data from a Translation Memory eXchange (TMX) file, which can be downloaded from [Opus TMX Data](https://opus.nlpl.eu/download.php?f=UN/v20090831/tmx/ar-en.tmx.gz), into a relational database. The TMX file contains parallel translations between English and Arabic languages. The primary goal of this project is to clean and structure the data before loading it into the database.
 
 ## File Details
-### reader_module.py 
-<a name="reader_module.py" href="https://github.com/divyechopra/ET_Assessment_test/blob/main/reader_module.py">reader_module.py</a>
+### [reader_module.py](https://github.com/divyechopra/ET_Assessment_test/blob/main/reader_module.py)
 
 This module provides functions to download a file from a URL, save it to a specified folder(data), and decompress it if it's a gzip file.
 
